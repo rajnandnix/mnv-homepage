@@ -144,7 +144,7 @@ export default function Footer() {
                     href={item.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label={`${item.label}, ${footer.newTab}`}
+                    aria-label={`${brand.name} on ${item.label}, ${footer.newTab}`}
                     className="flex h-11 w-11 items-center justify-center rounded-full border border-lilac text-white transition duration-300 hover:-translate-y-1 hover:border-brand hover:bg-brand focus-visible:-translate-y-1 focus-visible:bg-brand active:scale-[0.96]"
                   >
                     <svg

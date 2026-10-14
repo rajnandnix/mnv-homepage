@@ -120,7 +120,7 @@ export const services = {
           id: "compliance",
           name: "Compliance",
           description:
-            "Ongoing support after setup, including license and establishment card renewals, labour and visa processing, and corporate compliance such as UBO declarations and ESR.",
+            "Ongoing support after setup, including license and establishment card renewals, labour and visa processing, and corporate compliance such as UBO declarations.",
         },
         {
           id: "business-advisory",

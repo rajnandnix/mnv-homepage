@@ -35,7 +35,7 @@ export default function Testimonials() {
                 {"“"}
               </span>
               <blockquote className="relative">
-                <p className="font-serif text-[1.375rem] italic leading-snug">{`“${item.quote}”`}</p>
+                <p className="font-serif text-[1.375rem] italic leading-snug">{item.quote}</p>
               </blockquote>
               <figcaption className="relative mt-auto pt-6">
                 <span className="block font-semibold">{item.name}</span>
