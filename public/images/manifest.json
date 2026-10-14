@@ -1,0 +1,107 @@
+[
+  {
+    "file": "favicon.png",
+    "width": 270,
+    "height": 270
+  },
+  {
+    "file": "hero-400.avif",
+    "width": 400,
+    "height": 500
+  },
+  {
+    "file": "hero-400.webp",
+    "width": 400,
+    "height": 500
+  },
+  {
+    "file": "hero-682.avif",
+    "width": 682,
+    "height": 853
+  },
+  {
+    "file": "hero-682.webp",
+    "width": 682,
+    "height": 853
+  },
+  {
+    "file": "herobg-1000.avif",
+    "width": 1000,
+    "height": 533
+  },
+  {
+    "file": "herobg-1000.webp",
+    "width": 1000,
+    "height": 533
+  },
+  {
+    "file": "herobg-1600.avif",
+    "width": 1600,
+    "height": 853
+  },
+  {
+    "file": "herobg-1600.webp",
+    "width": 1600,
+    "height": 853
+  },
+  {
+    "file": "insight-cfo-services-400.webp",
+    "width": 400,
+    "height": 300
+  },
+  {
+    "file": "insight-cfo-services-800.webp",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "file": "insight-compliance-roadmap-400.webp",
+    "width": 400,
+    "height": 300
+  },
+  {
+    "file": "insight-compliance-roadmap-800.webp",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "file": "insight-financial-setup-400.webp",
+    "width": 400,
+    "height": 300
+  },
+  {
+    "file": "insight-financial-setup-800.webp",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "file": "logo-footer-white.webp",
+    "width": 340,
+    "height": 192
+  },
+  {
+    "file": "logo-white.webp",
+    "width": 198,
+    "height": 112
+  },
+  {
+    "file": "logo.webp",
+    "width": 198,
+    "height": 112
+  },
+  {
+    "file": "og-image.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "partner-mohammed-noaman-khan-320.webp",
+    "width": 320,
+    "height": 372
+  },
+  {
+    "file": "partner-vinay-venkat-320.webp",
+    "width": 320,
+    "height": 372
+  }
+]
